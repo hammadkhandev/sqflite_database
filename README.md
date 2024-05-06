@@ -1,6 +1,6 @@
 # simple_database
 
-A new Flutter project for  database read , inster, update  and delete.
+A Flutter project which user can read, insert, update, and delete in database.
 
 ## Getting Started
 
@@ -17,5 +17,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-/// replace image 
-![dashlogo](https://github.com/hammadkhandev/sqflite_database/assets/79661694/9528c05d-4c31-459b-8a84-63576775d6ee)
+
+![Screenshot_6-5-2024_114735_localhost](https://github.com/hammadkhandev/sqflite_database/assets/79661694/dfa0ad00-43e9-454c-98e4-42e94e57271d)
+
+
